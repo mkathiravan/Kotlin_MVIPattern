@@ -14,3 +14,5 @@ It represents an immutable state of sight. A new state is created by the ViewMod
 
 ## Reducer
 When you want to create a new State, you use the Reducer. It is provided with the current state as well as new elements to be included and it takes care of producing an immutable state.
+
+![image](https://user-images.githubusercontent.com/39657409/86630105-05df6380-bfea-11ea-95d5-f231acfbf421.png)
